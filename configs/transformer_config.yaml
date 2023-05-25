@@ -1,0 +1,11 @@
+---
+learning_rate: 0.0001
+epoch_num: 5
+emb_size: 128
+num_heads: 8
+num_encoder_layers: 4
+num_decoder_layers: 4
+dropout: 0.1
+div_factor: 10000
+try_one_batch: False
+path_to_log: "transformer_progress_logs"
